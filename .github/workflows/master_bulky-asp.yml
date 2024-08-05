@@ -62,4 +62,7 @@ jobs:
           app-name: 'bulky-asp'
           slot-name: 'Production'
           package: .
+      - name: List files
+        run: ls -R
+
           
